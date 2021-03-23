@@ -6,7 +6,7 @@
 
 -----
 
-Navigate using your arrow keys. If you see a `&darr;` there is content below. Try it now!
+Navigate using your arrow keys. If you see a &darr; there is content below. Try it now!
 
 For each distraction, I will have some strategies on the slide _below_.
 
@@ -20,7 +20,7 @@ To view all slides press the `ESC` key, otherwise press `>` to move to the next 
 
 ## Preface
 
-In today's age of technology, distractions are all around us.  In this web presentation I will display a few
+In today's age of technology, distractions are all around us.  In this web presentation I will display _a few_
 such distractions, and some solutions / steps you can take to alleviate their impact on your productivitiy.
 
 -----
@@ -32,7 +32,7 @@ such distractions, and some solutions / steps you can take to alleviate their im
 ## Solution:
 
 - Noise cancelling headphones, I recommend [these](https://www.amazon.com/gp/product/B0723CYHPZ/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1).
-- If able to move, move to a quieter location.
+- If able to move, move to a _quieter_ location.
 - Make sure to fully turn off the TV, dont just put it on low, even the moving images will distract you.
 - If listening to music, make sure it is not too loud, else you have defeated the point!
 
@@ -57,10 +57,10 @@ such distractions, and some solutions / steps you can take to alleviate their im
 
 ## Solution:
 
-- Humans are single threaded processes, we just switch between tasks fast.
+- Humans are __single__ threaded processes, we just switch between tasks fast.
 - Block out sections of time in your calendar to single tasks.
   - During these blocks, only do __that__ task, nothing else.
-- Make a list of ranked tasks and execute sequentially, don't skip tasks!
+- Make a list of ranked tasks and execute sequentially, __don't skip tasks!__
 
 -----
 
@@ -83,7 +83,7 @@ such distractions, and some solutions / steps you can take to alleviate their im
 
 ## Solution:
 
-Personally, I utilize Google Calendar and creating daily To-Do lists in Google Keep
+Personally, I utilize _Google Calendar_ and creating daily To-Do lists in _Google Keep_
 as a way to schedule out my tasks and reduce stress from time crunches.  Dealing with stress 
 is different for everyone, so for this distraction I opted to provide resources and processes.
 
