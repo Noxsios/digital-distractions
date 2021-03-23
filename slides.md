@@ -42,7 +42,12 @@ such distractions, and some solutions / steps you can take to alleviate their im
 
 ---
 
-## Solution 2
+## Solution:
+
+- Place phone on mute / silent during work hours.
+- Use [Focus Assist](https://support.microsoft.com/en-us/windows/turn-focus-assist-on-or-off-in-windows-10-5492a638-b5a3-1ee0-0c4f-5ae044450e09) on Windows, configure priority applications.
+- Get in the habit of leaving your phone at your desk when you take a break.
+- Configure [Digital Wellbeing](https://support.google.com/android/answer/9346420?hl=en) on Android or [Screen Time](https://www.theverge.com/2018/9/17/17870126/ios-12-screen-time-app-limits-downtime-features-how-to-use) on iPhones.
 
 -----
 
@@ -79,3 +84,7 @@ such distractions, and some solutions / steps you can take to alleviate their im
 #### [reveal.js](https://github.com/hakimel/reveal.js)
 
 #### [reveal.js template](https://github.com/pacharanero/create-new-revealjs-template)
+
+#### [Google Fonts](https://fonts.google.com/)
+
+#### [favicon.io](https://favicon.io/)
