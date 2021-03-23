@@ -8,7 +8,7 @@
 
 Navigate using your arrow keys. If you see a `&darr;` there is content below. Try it now!
 
-For each distraction, I will have the best strategy on the slide _below_.
+For each distraction, I will have some strategies on the slide _below_.
 
 ---
 
