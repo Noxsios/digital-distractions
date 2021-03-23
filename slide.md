@@ -6,7 +6,7 @@
 
 -----
 
-Navigate using your arrow keys. If you see a `&darr;` there is content below. 
+Navigate using your arrow keys. If you see a `&darr;` there is content below. Try it now!
 
 For each distraction, I will have the best strategy on the slide _below_.
 
@@ -18,15 +18,20 @@ To view all slides press the `ESC` key, otherwise press `>` to move to the next 
 
 -----
 
-## Distraction 1
+## Noise / Sound
 
 ---
 
-## Solution 1
+## Solution:
+
+- Noise cancelling headphones, I recommend [these](https://www.amazon.com/gp/product/B0723CYHPZ/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1).
+- If able to move, move to a quieter location.
+- Make sure to fully turn off the TV, dont just put it on low, even the moving images will distract you.
+- If listening to music, make sure it is not too loud, else you have defeated the point!
 
 -----
 
-## Distraction 2
+## Social Media / Messaging
 
 ---
 
@@ -34,7 +39,7 @@ To view all slides press the `ESC` key, otherwise press `>` to move to the next 
 
 -----
 
-## Distraction 3
+## Stress / Anxiety
 
 ---
 
@@ -42,7 +47,7 @@ To view all slides press the `ESC` key, otherwise press `>` to move to the next 
 
 -----
 
-## Distraction 4
+## Poor Time Management
 
 ---
 
