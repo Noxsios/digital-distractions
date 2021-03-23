@@ -18,6 +18,13 @@ To view all slides press the `ESC` key, otherwise press `>` to move to the next 
 
 -----
 
+## Preface
+
+In today's age of technology, distractions are all around us.  In this web presentation I will display a few
+such distractions, and some solutions / steps you can take to alleviate their impact on your productivitiy.
+
+-----
+
 ## Noise / Sound
 
 ---
