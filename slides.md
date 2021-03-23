@@ -51,27 +51,46 @@ such distractions, and some solutions / steps you can take to alleviate their im
 
 -----
 
-## Stress / Anxiety
+## Multi-tasking
 
 ---
 
-## Solution 3
+## Solution:
+
+- Humans are single threaded processes, we just switch between tasks fast.
+- Block out sections of time in your calendar to single tasks.
+  - During these blocks, only do __that__ task, nothing else.
+- Make a list of ranked tasks and execute sequentially, don't skip tasks!
 
 -----
 
-## Poor Time Management
+## Hunger / Snacking
 
 ---
 
-## Solution 4
+## Solution:
+
+- Have a [consistent](https://www.nm.org/healthbeat/healthy-tips/nutrition/best-times-to-eat) eating schedule, eat meals at the same time each day.
+- [Avoid](https://www.healthline.com/nutrition/13-tips-to-stop-mindless-eating) keeping food at your desk, separate eating and work as much as possible.
+- Drink your daily amount of [water](https://www.cdc.gov/nutrition/data-statistics/plain-water-the-healthier-choice.html) _throughout_ the day.
+  - Added bonus: breaks up your day with bathroom breaks.
 
 -----
 
-## Distraction 5
+## Stress
 
 ---
 
-## Solution 5
+## Solution:
+
+Personally, I utilize Google Calendar and creating daily To-Do lists in Google Keep
+as a way to schedule out my tasks and reduce stress from time crunches.  Dealing with stress 
+is different for everyone, so for this distraction I opted to provide resources and processes.
+
+- This [article](https://www.entrepreneur.com/article/315243) has a few methods.
+- [CDC](https://www.cdc.gov/violenceprevention/about/copingwith-stresstips.html) guidance.
+- [UK NHS](https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/tips-to-reduce-stress/) guidance.
+- [Sutter Health](https://www.sutterhealth.org/health/mind-body/10-simple-ways-to-cope-with-stress) article.
 
 -----
 
