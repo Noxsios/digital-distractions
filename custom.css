@@ -11,3 +11,7 @@ h6 {
 p, li {
   color: #94ff99 !important;
 }
+
+img {
+  max-width: 50% !important;
+}

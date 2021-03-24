@@ -27,6 +27,8 @@ such distractions, and some solutions / steps you can take to alleviate their im
 
 ## Noise / Sound
 
+![Noise Image](https://images.pexels.com/photos/3851254/pexels-photo-3851254.jpeg)
+
 ---
 
 ## Solution:
@@ -39,6 +41,8 @@ such distractions, and some solutions / steps you can take to alleviate their im
 -----
 
 ## Social Media / Messaging
+
+![Social Media](https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg)
 
 ---
 
@@ -53,6 +57,8 @@ such distractions, and some solutions / steps you can take to alleviate their im
 
 ## Multi-tasking
 
+![Multi-tasking](https://st3.depositphotos.com/1001201/12993/i/600/depositphotos_129938566-stock-photo-businessman-stressed-out-from-work.jpg)
+
 ---
 
 ## Solution:
@@ -66,6 +72,8 @@ such distractions, and some solutions / steps you can take to alleviate their im
 
 ## Hunger / Snacking
 
+![Hunger](https://images.pexels.com/photos/5898312/pexels-photo-5898312.jpeg)
+
 ---
 
 ## Solution:
@@ -78,6 +86,8 @@ such distractions, and some solutions / steps you can take to alleviate their im
 -----
 
 ## Stress
+
+![Stress](https://images.pexels.com/photos/3755761/pexels-photo-3755761.jpeg)
 
 ---
 
